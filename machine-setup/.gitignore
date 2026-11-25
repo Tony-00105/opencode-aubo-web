@@ -1,0 +1,13 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Never commit credentials or browser profiles
+.env
+.env.*
+**/.ssh/
+**/id_rsa*
+**/hosts.yml
+**/Cookies
+**/Login Data
